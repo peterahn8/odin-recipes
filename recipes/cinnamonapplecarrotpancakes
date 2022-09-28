@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cinnamon Apple Carrot Pancakes</title>
+</head>
+<body>
+    <h1>Cinnamon Apple Carrot Pancakes</h1>
+    <img src="../images/cinnamonapplecarrotpancakes.jpeg" alt="An image of cinnamon apple carrot pancakes">
+    <h2>Description</h2>
+    <p>These cinnamon apple carrot pancakes are super thick and filling – a perfect way to enjoy your apples and carrots in yummy breakfast form!</p>
+    <h3>Ingredients</h3>
+    <ul>
+        <li>1 3/4 cups raisin bran cereal</li>
+        <li>1 1/4 cups all-purpose flour</li>
+        <li>3/4 cup sugar</li>
+        <li>1 1/4 teaspoons baking soda</li>
+        <li>1 teaspoon ground cinnamon</li>
+        <li>1/4 teaspoon salt</li>
+        <li>1 egg</li>
+        <li>3/4 cup buttermilk (+ extra milk to thin the batter)</li>
+        <li>1/4 cup canola oil</li>
+        <li>3/4 cup finely chopped peeled tart apple</li>
+        <li>3/4 cup grated carrots</li>
+    </ul>
+    <h3>Steps</h3>
+    <ol>
+        <li>In a bowl, combine the first six ingredients. In a small bowl, beat the egg, buttermilk and oil. Stir into dry ingredients just until moistened. Fold in apple and carrots.</li>
+        <li>Pour 1/3 cup of batter onto a griddle on medium heat. Wait until the bottom side of the pancakes stick together enough to flip over. When pancakes have cooked through, remove and top with butter and maple syrup!</li>
+        <li>This is technically muffin batter, so it makes very thick pancakes. I added a little extra milk to try to thin the batter out a little bit. The pancakes do not cook like regular pancakes – they take longer and do not flip as easily. But they do taste delicious! If anyone knows of a good pancake “base” recipe that would work well for adding carrots, apples, and raisin bran… let me know!</li>
+    </ol>
+</body>
+</html>
